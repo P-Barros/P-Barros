@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em início de carreira`**
 
-Me chamo Pedro barros, tenho 30 anos e sou natural de São Paulo. Tenho curso técnico em Administração e Automação Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU. Tenho me dedicadado para aprender cada dia mais novas tecnologias. Sou um desenvolvedor em início de carreira focado em Python para automação, análise de dados e criação de aplicações. 📊 Explorando o universo de dados. 
+Sou Pedro Barros, tenho 30 anos e sou natural de São Paulo. Tenho curso técnico em Administração e Automação Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU. Tenho me dedicadado para aprender cada dia mais novas tecnologias. Sou um desenvolvedor em início de carreira focado em Python para automação, análise de dados e criação de aplicações. 📊 Explorando o universo de dados. 
 
 ---
 
